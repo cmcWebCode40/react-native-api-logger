@@ -1,5 +1,5 @@
 {
-  "name": "react-native-api-logger",
+  "name": "@rn-sdk/react-native-api-logger",
   "version": "0.1.0",
   "description": "API logger/visualizer for react native mobile application",
   "main": "./lib/module/index.js",
