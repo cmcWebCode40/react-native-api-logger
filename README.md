@@ -6,6 +6,16 @@ A comprehensive network request debugging tool for React Native applications. Mo
 [![License](https://img.shields.io/npm/l/react-native-api-logger)](https://github.com/your-username/react-native-api-logger/blob/main/LICENSE)
 [![Platform](https://img.shields.io/badge/platform-react--native-blue)](https://reactnative.dev/)
 
+
+
+<img
+  src="/demo/demo_RN_logger.png"
+  alt="Alt text"
+  title="React Native API Logger"
+  style="margin:0 4px; max-width: 300px"
+/>
+
+
 ## Features
 
 - **Real-time Network Monitoring** - Automatically intercepts all fetch() and XMLHttpRequest calls

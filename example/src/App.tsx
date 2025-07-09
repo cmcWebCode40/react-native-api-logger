@@ -299,7 +299,7 @@ const App: React.FC = () => {
         </View>
       </ScrollView>
 
-      <NetworkLoggerOverlay enableDeviceShake networkLogger={networkLogger} />
+      <NetworkLoggerOverlay networkLogger={networkLogger} />
     </SafeAreaView>
   );
 };
